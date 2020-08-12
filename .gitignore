@@ -1,0 +1,9 @@
+# Rust
+/target
+
+# Python
+.mypy_cache/
+
+# Minecraft
+*.mca
+server/
